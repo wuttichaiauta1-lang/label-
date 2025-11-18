@@ -1,0 +1,7 @@
+{
+  "name": "Fiber Optic Label Generator",
+  "description": "An application for communication engineers to generate standardized fiber optic cable labels. Fill in the source and destination details to create a professional, printable label.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
